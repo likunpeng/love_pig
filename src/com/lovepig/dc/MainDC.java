@@ -10,8 +10,6 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.lovepig.main.Application;
-import com.lovepig.main.Configs;
 import com.lovepig.main.R;
 import com.lovepig.pivot.BaseDC;
 import com.lovepig.pivot.BaseManager;
